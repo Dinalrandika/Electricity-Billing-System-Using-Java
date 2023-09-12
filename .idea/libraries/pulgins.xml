@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pulgins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pulgins/iReport-5.6.0-plugin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pulgins/iReport-5.5.2-plugin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
